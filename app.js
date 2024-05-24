@@ -41,3 +41,5 @@ function abcd(ele){
 let variable="some added";
 let change = "some changes";
 let change2= "some changes";
+
+let babluvar="bablu";
