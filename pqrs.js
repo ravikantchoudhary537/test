@@ -6,7 +6,8 @@ export default pp;
 
 let obj={
     name:"ravi",
-    age:22
+    age:22,
+    gmail: "ravi@gamil.com"
 }
  
 for(let key in obj){
